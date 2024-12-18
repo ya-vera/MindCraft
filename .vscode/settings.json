@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MINDCRAFT.sln"
+    "dotnet.defaultSolution": "MindCraft.sln"
 }
